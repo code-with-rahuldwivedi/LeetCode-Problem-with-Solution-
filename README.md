@@ -51,10 +51,19 @@ GitHub: code-with-rahuldwivedi
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
