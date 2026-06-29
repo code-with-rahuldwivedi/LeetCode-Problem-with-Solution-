@@ -52,4 +52,9 @@ GitHub: code-with-rahuldwivedi
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
