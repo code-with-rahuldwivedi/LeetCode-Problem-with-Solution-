@@ -40,6 +40,7 @@ GitHub: code-with-rahuldwivedi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ GitHub: code-with-rahuldwivedi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
@@ -66,4 +68,8 @@ GitHub: code-with-rahuldwivedi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0004-median-of-two-sorted-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
