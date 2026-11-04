@@ -60,6 +60,7 @@ GitHub: code-with-rahuldwivedi
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0007-reverse-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
