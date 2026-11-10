@@ -56,6 +56,7 @@ GitHub: code-with-rahuldwivedi
 | [0004-median-of-two-sorted-arrays](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0485-max-consecutive-ones](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ GitHub: code-with-rahuldwivedi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0005-longest-palindromic-substring) |
+| [0977-squares-of-a-sorted-array](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +89,8 @@ GitHub: code-with-rahuldwivedi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/code-with-rahuldwivedi/LeetCode-Problem-with-Solution-/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
